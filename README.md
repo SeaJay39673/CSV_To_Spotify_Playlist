@@ -1,0 +1,1 @@
+This project is designed to read song data from a CSV and create a spotify playlist from it under someones personal account. 
