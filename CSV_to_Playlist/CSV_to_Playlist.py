@@ -78,7 +78,7 @@ def getSongsFromPLaylist(playlist, sp): # Gets a list of spotify songs from a sp
 
 playlist = "Atlas CSV Filtered"
 
-dataSongs = getBestInOrder("Songs for Chris.xlsx")
+dataSongs = getBestInOrder("CSV_to_Playlist\Songs for Chris.xlsx")
 sp = initialize()
 PID = FindOrCreatePlaylist(playlist, sp)
 
